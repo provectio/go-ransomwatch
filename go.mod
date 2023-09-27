@@ -1,3 +1,3 @@
-module github.com/provectio/ransomwatch
+module github.com/provectio/go-ransomwatch
 
 go 1.21
